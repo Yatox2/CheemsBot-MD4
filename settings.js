@@ -55,22 +55,22 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['9660540637980'] //ur owner number
-global.ownername = "ABDUL RAHMAN🐼🍷 ٫" //ur owner name
-global.ytname = "YT: ABDUL RAHMAN" //ur yt chanel name
-global.socialm = "GitHub: ABDUL RAHMAN" //ur github or insta name
-global.location = "Egypt, Cairo, Aizawl" //ur location
+global.ownername = "Yatox2🐼🍷 ٫" //ur owner name
+global.ytname = "YT: Yatox2" //ur yt chanel name
+global.socialm = "GitHub: Yatox2" //ur github or insta name
+global.location = "KSA, Makkah, Jeddah" //ur location
 
 //bot bomdy 
-global.owner = ['9660540637980']
-global.ownertag = '9660540637980' //ur tag number
-global.botname = 'BOT ABDUL RAHMAN🐼🍷 ٫' //ur bot name
+global.owner = ['201098906252']
+global.ownertag = '20109890652' //ur tag number
+global.botname = 'elgazar bit🐼🍷 ٫' //ur bot name
 global.linkz = "https://chat.whatsapp.com/LXZnV3rPFqD4ryPvG0Cyvvv" //your theme url which will be displayed on whatsapp
 global.websitex = "https://chat.whatsapp.com/LXZnV3rPFqD4ryPvG0Cyvvv" //ur website to be displayed
 global.botscript = 'https://chat.whatsapp.com/LXZnV3rPFqD4ryPvG0Cyvvv' //script link
 global.reactmoji = "🌚" //ur menu react emoji
 global.themeemoji = "🌞" //ur theme emoji
-global.packname = "⍣عبدالرحمن⍣" //ur sticker watermark packname
-global.author = "⍣9660540637980⍣" //ur sticker watermark author
+global.packname = "⍣sosuke⍣" //ur sticker watermark packname
+global.author = "⍣🇦 🇮 🇿 🇪 🇳 ⍣" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['9660540637980'] //ur premium numbers
+global.premium = ['9660532773744'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
